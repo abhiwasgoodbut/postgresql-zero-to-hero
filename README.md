@@ -8,8 +8,12 @@ A comprehensive PostgreSQL course designed for developers transitioning from Mon
 
 | File | Description |
 |---|---|
-| [`postgresql_complete_course.md`](./postgresql_complete_course.md) | 📖 **Full Course Guide** — 25 detailed modules covering theory, syntax, and examples |
-| [`postgresql_practice_workbook.md`](./postgresql_practice_workbook.md) | ✍️ **Hands-On Workbook** — 94 exercises where you write every query yourself |
+| [`n8n_complete_course.md`](./n8n_complete_course.md) | ⚡ **n8n Automation Course** — Complete localhost guide, Webhooks, Postgres/MongoDB nodes, AI agents, and 5 projects |
+| [`postgresql_complete_course.md`](./postgresql_complete_course.md) | 📖 **Full PostgreSQL Course** — 25 detailed modules covering theory, syntax, and examples |
+| [`postgresql_follow_along_lab.md`](./postgresql_follow_along_lab.md) | 🧪 **Follow-Along Lab** — 78 ready-to-type SQL steps for hands-on practice |
+| [`postgresql_practice_workbook.md`](./postgresql_practice_workbook.md) | ✍️ **Hands-On Workbook** — 94 exercises with test queries |
+| [`easy_ecom_practice.md`](./easy_ecom_practice.md) | 🛍️ **Simple E-Commerce DB Guide** — Beginner-friendly queries with clean outputs |
+| [`ecom_database.sql`](./ecom_database.sql) | 🛒 **E-Commerce SQL Seed Script** — 6 tables with realistic modern mock data |
 
 ---
 
